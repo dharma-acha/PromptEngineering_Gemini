@@ -1,0 +1,37 @@
+Batch generation prompts:
+
+3
+The sun
+The vehicle
+The road
+
+---------------------------------------
+
+Text classification
+
+The vacation was not good
+
+-----------------------------------------
+
+Text correction
+
+Thes is an exaple of incoreect texxt.
+
+------------------------------------------------
+Question and answering
+
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.
+
+Who designed the Eiffel Tower?
+
+-----------------------------------------------------
+
+Text annotations
+
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction. Particular applications of AI include expert systems, speech recognition, and machine vision.
+
+------------------------------------------------------------
+
+Text Summarization
+
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers (1,400 miles) over an area of approximately 344,400 square kilometers (133,000 square miles). It is located in the Coral Sea, off the coast of Queensland, Australia. The reef is home to a diverse range of marine life and is a popular destination for tourists and divers from around the world.
